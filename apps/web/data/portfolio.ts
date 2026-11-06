@@ -5,7 +5,7 @@ export const profile = {
   email: "andrescayambe21@gmail.com",
   github: "https://github.com/JORGEGOOD",
   linkedin: "", // TODO: pon tu LinkedIn
-  cv: "/CV_Jorge_Cayambe.pdf",
+  cv: "/CV_Jorge_Cayambe_.pdf",
 }
 
 export const about = [
