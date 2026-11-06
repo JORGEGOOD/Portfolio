@@ -127,3 +127,15 @@
     @apply bg-background text-foreground;
     }
 }
+@keyframes marquee {
+  to { transform: translateX(-50%); }
+}
+
+.dark {
+  --background: oklch(0 0 0);
+  --card: oklch(0.08 0 0);
+  --popover: oklch(0.08 0 0);
+  --muted: oklch(0.14 0 0);
+  --muted-foreground: oklch(0.76 0 0);
+  --border: oklch(1 0 0 / 10%);
+}

@@ -24,5 +24,12 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^14.9.1",
+    "lucide-react": "^1.69.0",
+    "tailwind-merge": "^3.7.0"
+  }
 }
